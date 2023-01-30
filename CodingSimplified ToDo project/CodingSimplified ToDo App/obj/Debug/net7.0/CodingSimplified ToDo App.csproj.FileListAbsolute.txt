@@ -1,0 +1,96 @@
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/appsettings.Development.json
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/appsettings.json
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.staticwebassets.runtime.json
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.deps.json
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.runtimeconfig.json
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.dll
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.pdb
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.csproj.AssemblyReference.cache
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.AssemblyInfoInputs.cache
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.AssemblyInfo.cs
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.csproj.CoreCompileInputs.cache
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.MvcApplicationPartsAssemblyInfo.cache
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.RazorAssemblyInfo.cache
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.RazorAssemblyInfo.cs
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets/msbuild.CodingSimplified ToDo App.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets/msbuild.build.CodingSimplified ToDo App.props
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CodingSimplified ToDo App.props
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CodingSimplified ToDo App.props
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets.build.json
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets.development.json
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/scopedcss/bundle/CodingSimplified ToDo App.styles.css
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/scopedcss/projectbundle/CodingSimplified ToDo App.bundle.scp.css
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.dll
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/refint/CodingSimplified ToDo App.dll
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.pdb
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.genruntimeconfig.cache
+/Users/elianamakdisy/Projects/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/ref/CodingSimplified ToDo App.dll
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/appsettings.Development.json
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/appsettings.json
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.staticwebassets.runtime.json
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.deps.json
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.runtimeconfig.json
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.dll
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.pdb
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.csproj.AssemblyReference.cache
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.AssemblyInfoInputs.cache
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.AssemblyInfo.cs
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.csproj.CoreCompileInputs.cache
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.MvcApplicationPartsAssemblyInfo.cache
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.RazorAssemblyInfo.cache
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.RazorAssemblyInfo.cs
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets/msbuild.CodingSimplified ToDo App.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets/msbuild.build.CodingSimplified ToDo App.props
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CodingSimplified ToDo App.props
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CodingSimplified ToDo App.props
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets.build.json
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets.development.json
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/scopedcss/bundle/CodingSimplified ToDo App.styles.css
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/scopedcss/projectbundle/CodingSimplified ToDo App.bundle.scp.css
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.dll
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/refint/CodingSimplified ToDo App.dll
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.pdb
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.genruntimeconfig.cache
+/Users/elianamakdisy/Desktop/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/ref/CodingSimplified ToDo App.dll
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/appsettings.Development.json
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/appsettings.json
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.staticwebassets.runtime.json
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.deps.json
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.runtimeconfig.json
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.dll
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/bin/Debug/net7.0/CodingSimplified ToDo App.pdb
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.csproj.AssemblyReference.cache
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.AssemblyInfoInputs.cache
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.AssemblyInfo.cs
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.csproj.CoreCompileInputs.cache
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.MvcApplicationPartsAssemblyInfo.cache
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.RazorAssemblyInfo.cache
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.RazorAssemblyInfo.cs
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets/msbuild.CodingSimplified ToDo App.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets/msbuild.build.CodingSimplified ToDo App.props
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CodingSimplified ToDo App.props
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CodingSimplified ToDo App.props
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets.build.json
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/staticwebassets.development.json
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/scopedcss/bundle/CodingSimplified ToDo App.styles.css
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/scopedcss/projectbundle/CodingSimplified ToDo App.bundle.scp.css
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.dll
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/refint/CodingSimplified ToDo App.dll
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.pdb
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/CodingSimplified ToDo App.genruntimeconfig.cache
+/Users/elianamakdisy/Desktop/Inlämning uppgift c#/CodingSimplified ToDo project/CodingSimplified ToDo App/obj/Debug/net7.0/ref/CodingSimplified ToDo App.dll
